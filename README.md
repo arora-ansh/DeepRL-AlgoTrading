@@ -5,4 +5,4 @@ Project where we attempt alternate deep techniques over pre-existing techniques 
 Team Members:
 Ansh Arora\
 Sudarshan Buxy (@sudarshbuxyyes)\
-Devansh Gupta (@devanshgupta160)\
+Devansh Gupta (@devanshgupta160)
